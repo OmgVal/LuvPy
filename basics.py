@@ -7,3 +7,7 @@ def greeting(name):
     print('hello', name, 'what is up?')
 
 greeting('Chloe')
+
+#using variables 'message' and giving them a value 'phrase'
+message = 'You are my sunshine...'
+print(message)
