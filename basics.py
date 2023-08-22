@@ -22,3 +22,4 @@ print()
 # New line are made using '\n' a backslash and n
 # print('hello\nhello')
 
+##### input() function
